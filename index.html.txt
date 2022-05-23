@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<!-- Paige Dyer
+
+<head> 
+  <meta charset="UTF-8">
+  <title>Hello Worl - Azure</title>
+</head>
+<body>
+  <h1> Hello World - Azure - Paige Dyer</h1>
+  <h2>Version 2</h2>
+</body>
+</html>
